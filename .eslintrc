@@ -1,0 +1,10 @@
+{
+  "extends": ["airbnb-bse", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error"]
+  },
+  "globals": {
+    "wx": true
+  }
+}
