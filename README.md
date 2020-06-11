@@ -2,7 +2,9 @@
 
 Based on [wx.createUDPSocket](https://developers.weixin.qq.com/miniprogram/dev/api/network/udp/wx.createUDPSocket.html)
 
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/miniprogram-ntp-client)
 ![Publish to NPM](https://github.com/undirectlookable/miniprogram-ntp-client/workflows/Publish%20to%20NPM/badge.svg)
+![License-MIT](https://img.shields.io/npm/l/miniprogram-ntp-client)
 
 ## Installation
 
